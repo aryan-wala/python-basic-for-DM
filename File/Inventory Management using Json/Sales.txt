@@ -1,0 +1,4 @@
+1,aryan,9510377293,aryanwala@gmail.com,5,10,50,Wed Feb 14 19:45:06 2024
+2,chintu,9911002283,chintu1164@gmail.com,1,100,100,Wed Feb 14 19:46:27 2024
+3,shah,9018293949,shah@gmail.com,20,2,40,Wed Feb 14 19:47:57 2024
+4,vraj,1902938475,vraj@gmail.com,10,100,1000,Wed Feb 14 19:48:21 2024
